@@ -4,7 +4,7 @@
  Sou Aline Beatriz, uma estudante de 20 anos determinada a seguir uma carreira na tecnologia. Atualmente, estudo Sistemas de Informação na Faculdade Uninassau, no Recife. Apesar de não ter experiência profissional, estou ansiosa para aplicar meu conhecimento acadêmico em projetos práticos. Meu objetivo é me tornar uma desenvolvedora full-stack. Estou aberta a oportunidades de estágio e projetos acadêmicos para aprimorar minhas habilidades. Sou apaixonada por tecnologia e estou ansiosa para construir conexões com profissionais da área. Vamos crescer juntos no mundo da tecnologia!
 
 # Habilidades
-
+![Snake animation](https://github.com/Aline875/Aline875/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aline875&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aline875&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
