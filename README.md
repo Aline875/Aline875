@@ -1,6 +1,9 @@
 ### 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA8072&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I'm+Aline+:%29)](https://git.io/typing-svg)
+
+
 # Habilidades
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aline875&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
