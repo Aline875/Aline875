@@ -1,7 +1,5 @@
 ### 
-# Sobre Mim
-
- Sou Aline Beatriz, uma estudante de 20 anos determinada a seguir uma carreira na tecnologia. Atualmente, estudo Sistemas de Informação na Faculdade Uninassau, no Recife. Apesar de não ter experiência profissional, estou ansiosa para aplicar meu conhecimento acadêmico em projetos práticos. Meu objetivo é me tornar uma desenvolvedora full-stack. Estou aberta a oportunidades de estágio e projetos acadêmicos para aprimorar minhas habilidades. Sou apaixonada por tecnologia e estou ansiosa para construir conexões com profissionais da área. Vamos crescer juntos no mundo da tecnologia!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=header"/>
 
 # Habilidades
 
