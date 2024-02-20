@@ -41,6 +41,10 @@
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline875&bg_color=080808&color=fb74f2&line=e23c9d&point=922f8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aline875/Aline875/output/github-contribution-grid-snake-dark.svg">
